@@ -5,7 +5,7 @@ A Simple Marvel's API access example.
 1 - Create an account on Marvel's website https://developer.marvel.com/. <br/>
 2 - Generate a hash based on Marvel's authorization page instructions https://developer.marvel.com/documentation/authorization<br/>
 3 - Replace information on global_info.js<br/>
-4 - Use it.<br/>
+4 - See main.js to use the client.<br/>
 
 
 ### Prerequisites
