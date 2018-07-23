@@ -3,4 +3,4 @@ let Global = {
     apikey:'',// YOUR PUBLIC KEY
     charactersUrl: "http://gateway.marvel.com/v1/public/characters",
     ts: "1"
-};
+}; 
